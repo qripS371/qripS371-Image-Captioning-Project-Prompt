@@ -1,0 +1,5 @@
+{
+  "name": "Visionary AI Captioner",
+  "description": "A powerful React application that uses Google Gemini 2.5 to analyze images and generate descriptive captions, tags, and detailed visual analysis instantly.",
+  "requestFramePermissions": []
+}
