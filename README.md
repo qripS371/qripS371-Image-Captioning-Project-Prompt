@@ -13,7 +13,8 @@ Option B: Clone with Git (Recommended): If you have Git installed, click the < >
 
 Bash
 
-git clone [YOUR_REPOSITORY_URL]
+git clone https://github.com/qripS371/qripS371-Image-Captioning-Project-Prompt
+
 2. Prerequisites: Install Node.js
 This application is built with Node.js and npm (Node Package Manager).
 
